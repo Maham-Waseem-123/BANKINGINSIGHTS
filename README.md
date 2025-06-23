@@ -130,11 +130,9 @@ Each table includes **20 manually inserted rows** using SQL scripts to simulate 
 - Total transaction volume  
 
 ### 📈 Visuals:
-- **Pie Chart:** Loan status distribution  
-- **Bar Chart:** Transaction type per account  
+- **Pie Chart:** Loan status distribution   
 - **Line Chart:** Monthly loan issuance trends  
-- **Map:** Geographic customer distribution  
-- **Data Table:** Customer name, number of accounts, total balance, last transaction date  
+
 
 ---
 
@@ -170,11 +168,6 @@ Each table includes **20 manually inserted rows** using SQL scripts to simulate 
 - Data Modeling & Reporting  
 - Banking Domain Analytics  
 
----
-
-## 📎 License
-
-This project is released under the [MIT License](LICENSE).
 
 ---
 
